@@ -1,0 +1,18 @@
+body{
+    background: lightskyblue;
+}
+.container{
+    margin-left: 2% !important;
+    margin-right: 2% !important;
+}
+.bDireita{
+    border-right: 5px solid white;
+}
+.navFonte{
+    font-family:fantasy;
+    font-size: 40px;
+}
+li{
+    list-style: none;
+}
+
